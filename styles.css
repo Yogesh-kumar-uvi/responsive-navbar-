@@ -114,7 +114,7 @@ body {
   left: 0;
   width: 100%;
   height: 2px;
-  background-color: #55b1c8c7; /* Change this color if needed */
+  background-color: #55b1c8c7; 
 }
 
 .navbar-nav .nav-item a:hover::before,
